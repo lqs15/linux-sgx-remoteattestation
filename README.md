@@ -1,4 +1,3 @@
-https://gts3.org/pages/remote-attestation-example.html----Explanations Here！
 # Linux SGX remote attestation
 Example of a remote attestation with Intel's SGX including the communication with IAS.
 
